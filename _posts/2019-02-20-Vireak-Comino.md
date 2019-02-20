@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to vireak comino"
+date : 2019-02-20
 ---
 
 # Welcome
