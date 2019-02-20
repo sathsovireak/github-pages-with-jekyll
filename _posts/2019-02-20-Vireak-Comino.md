@@ -1,10 +1,6 @@
 ---
-title:  "Welcome to vireak comino"
-date : 2019-02-20
+title: "Vireak Comino"
+date: 2019-02-20
 ---
-
-# Welcome
-
-**Hello world**, this is my first vireak comino blog post.
-
+this is my first vireak comino blog post.
 I hope you like it!
